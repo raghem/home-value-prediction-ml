@@ -145,3 +145,9 @@ The model explains **30.6%** of the variance in home prices, indicating other va
 
 ## Sources
 No external sources were used beyond official WGU materials.
+
+
+## Related Projects
+- [Home Value Prediction (Regression)](https://github.com/yourusername/home-value-prediction-ml)
+- [Luxury Home Classification (Logistic Regression)](https://github.com/yourusername/luxury-home-classification-ml)
+
